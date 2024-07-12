@@ -1,0 +1,13 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 12 Jul 2024 22:45:45 at http://netgon.net/themeforest/elysium/index-home1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://netgon.net/themeforest/elysium/index-home1.html -O "/home/dipankar/websites/Rental Template Elysium" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:49:27	Error: 	"Not Found" (404) at link netgon.net/themeforest/elysium/blog-single-post-fullwidth.html (from netgon.net/themeforest/elysium/catalog-grid.html)
+22:50:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://mc.yandex.ru/metrika/watch.js
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 31 seconds : 143 links scanned, 142 files written (6139455 bytes overall) [4592128 bytes received at 13873 bytes/sec], 2344965 bytes transferred using HTTP compression in 48 files, ratio 27%, 4.6 requests per connection
+(1 errors, 1 warnings, 0 messages)
